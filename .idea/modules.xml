@@ -3,9 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Androidlessons.iml" filepath="$PROJECT_DIR$/Androidlessons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0061_Layouts/P0061_Layouts.iml" filepath="$PROJECT_DIR$/P0061_Layouts/P0061_Layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0072_LayoutProp/P0072_LayoutProp.iml" filepath="$PROJECT_DIR$/P0072_LayoutProp/P0072_LayoutProp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0081_ViewById/P0081_ViewById.iml" filepath="$PROJECT_DIR$/P0081_ViewById/P0081_ViewById.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0091_OnClickButtons/P0091_OnClickButtons.iml" filepath="$PROJECT_DIR$/P0091_OnClickButtons/P0091_OnClickButtons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0101_Listener/P0101_Listener.iml" filepath="$PROJECT_DIR$/P0101_Listener/P0101_Listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0102_ActivityListener/P0102_ActivityListener.iml" filepath="$PROJECT_DIR$/P0102_ActivityListener/P0102_ActivityListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0111_ResValues/P0111_ResValues.iml" filepath="$PROJECT_DIR$/P0111_ResValues/P0111_ResValues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0121_LogAndMess/P0121_LogAndMess.iml" filepath="$PROJECT_DIR$/P0121_LogAndMess/P0121_LogAndMess.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
     </modules>
   </component>
 </project>
